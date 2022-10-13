@@ -79,8 +79,4 @@ The model checkpoint can be found on HuggingFace: https://huggingface.co/nielsr/
 
 
 
-<h3 align="center">
-    <a href="https://hf.co/course"><img src="https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/course_banner.png"></a>
-</h3>
-
 
