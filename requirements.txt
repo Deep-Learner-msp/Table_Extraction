@@ -32,7 +32,7 @@ pytesseract==0.3.10
 pytz-deprecation-shim==0.1.0.post0
 PyWavelets==1.1.1
 PyYAML==5.4.1
-scipy==1.4.1
+scipy
 seaborn==0.11.1
 sklearn==0.0
 streamlit==1.5.1
