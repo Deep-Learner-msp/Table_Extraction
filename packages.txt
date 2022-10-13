@@ -1,0 +1,6 @@
+ffmpeg 
+libsm6 
+libxext6 
+libgl1
+tesseract-ocr-eng
+python3-opencv
