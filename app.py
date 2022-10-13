@@ -24,8 +24,7 @@ import asyncio
 
 st.set_option('deprecation.showPyplotGlobalUse', False)
 st.set_page_config(layout='wide')
-st.title("Table Detection and Table Structure Recognition")
-st.write("Implemented by MSFT team: https://github.com/microsoft/table-transformer")
+st.title("Table Detection and Table Structure Recognition using Table Transformers")
 
 
 def PIL_to_cv(pil_img):
